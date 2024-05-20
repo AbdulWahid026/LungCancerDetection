@@ -1,1 +1,2 @@
 # LungCancerDetection
+In my LUNA16 dataset cancer detection project, I utilized PyTorch to develop and train convolutional neural networks (CNNs) for accurate identification of lung nodules in 3D CT scans. By leveraging advanced deep learning architectures and extensive data preprocessing techniques, the model achieved high precision and recall, significantly aiding in early lung cancer detection.
